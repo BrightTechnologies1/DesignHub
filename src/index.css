@@ -1,5 +1,7 @@
 body {
-  background: #f0f0f0 !important;
+  background-image: url(../src/images/bbackground.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
   text-align: center;
   align-items: center;
   margin: 0;
