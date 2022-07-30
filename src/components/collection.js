@@ -15,7 +15,7 @@ import image6 from '../images/image6.jpg'
 
 function Collection () {
 
-    const [key, setKey] = useState('collection');
+    const [key, setKey] = useState('PSD');
 
     return (
         <div className='collection container'>
